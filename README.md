@@ -1,4 +1,4 @@
-# Project Name:
+# Project Name: Student Grade Calculator
 ## John Arthur
 ### (Role)
 ## Arianna Bodycomb
