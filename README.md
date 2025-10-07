@@ -2,7 +2,7 @@
 ## John Arthur
 ### (Role)
 ## Arianna Bodycomb
-### (Role)
+### (Programmer)
 ## Nana Frimpong
 ### (Role)
 ## Madeeha Ahmed
