@@ -74,6 +74,5 @@ public class StudentGradeCalculator {
             }
 
         }
-
     }
 }
