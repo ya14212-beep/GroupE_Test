@@ -44,6 +44,12 @@ public class StudentGradeCalculator {
                         letterGrade = "C";}
                     else if (totalWeightedGrade >= 60) {
                         letterGrade = "D";}
+                    else if (totalWeightedGrade < 0) {
+                        System.out.println("Error: Invalid Grade or Weight Input");
+                        System.out.println(" ");
+                        System.out.println("**************************************************");
+                        System.out.println(" ");
+                        break;}
                     else {
                         letterGrade = "E";}
 
@@ -52,27 +58,32 @@ public class StudentGradeCalculator {
                     System.out.printf("Your total grade is: %.2f%%. You have a(n) " +letterGrade+ "!", totalWeightedGrade);
                     System.out.println(" ");
                     System.out.println("**************************************************");
+                    System.out.println(" ");
                     break;
 
                 case 1:
                     System.out.printf("Your current grade is: %.2f%%. You have a(n) " +letterGrade+ "!", totalWeightedGrade);
                     System.out.println(" ");
                     System.out.println("**************************************************");
+                    System.out.println(" ");
                     break;
 
                 case 0:
                     System.out.println("Exiting Student Grade Calculator. Goodbye!");
                     System.out.println(" ");
                     System.out.println("**************************************************");
+                    System.out.println(" ");
                     loop = false;
                     break;
 
                 default:
                     System.out.println("Invalid option. Please try again.");
+                    System.out.println(" ");
 
 
             }
 
         }
+
     }
 }
