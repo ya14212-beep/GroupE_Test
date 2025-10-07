@@ -6,6 +6,6 @@
 ## Nana Frimpong
 ### (Role)
 ## Madeeha Ahmed
-### (Role)
+### Programmer
 ## Jaden McKay
 ### (Role)
