@@ -79,6 +79,7 @@ public class StudentGradeCalculator {
                 default:
                     System.out.println("Invalid option. Please try again.");
                     System.out.println(" ");
+                    break;
 
 
             }
