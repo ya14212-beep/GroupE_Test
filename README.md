@@ -8,4 +8,4 @@
 ## Madeeha Ahmed
 ### Programmer
 ## Jaden McKay
-### (Debugger)
+### Debugger
