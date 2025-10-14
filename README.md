@@ -1,6 +1,6 @@
 # Project Name: Student Grade Calculator
 ## John Arthur
-### (Role)
+### Project Manager
 ## Arianna Bodycomb
 ### Programmer
 ## Madeeha Ahmed
