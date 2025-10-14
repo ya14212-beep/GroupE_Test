@@ -2,7 +2,7 @@
 ## John Arthur
 ### (Role)
 ## Arianna Bodycomb
-### Programmer
+### Project Manager
 ## Madeeha Ahmed
 ### Programmer
 ## Jaden McKay
